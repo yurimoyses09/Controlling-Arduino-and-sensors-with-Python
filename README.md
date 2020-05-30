@@ -8,5 +8,9 @@ With the code loaded on the arduino, all control on the arduino can be done in P
 
 Installing PyFirmata:
 
-LINUX -> sudo apt-get install pyfirmata; WINDONS -> pip3 install pyfyrmata
+LINUX -> sudo apt-get install pyfirmata
+WINDONS -> pip3 install pyfyrmata
+
+RUN CODE:
+python irrigation-system.py
 
